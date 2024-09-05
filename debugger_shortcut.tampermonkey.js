@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  debugger_shortcut
-// @author       XT
+// @author       https://github.com/xiaonan3333
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
